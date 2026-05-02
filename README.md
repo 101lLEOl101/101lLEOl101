@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Frontend-разработчик;TypeScript+%2F+React+%2F+Vite;Также+пишу+на+Python+и+Java" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;TypeScript+%2F+React+%2F+Vite;%D0%A2%D0%B0%D0%BA%D0%B6%D0%B5+%D0%BF%D0%B8%D1%88%D1%83+%D0%BD%D0%B0+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ## Обо мне
 
-Frontend-разработчик с уклоном в TypeScript и React. Помимо фронтенда работаю с бэкендом на Django и Spring Boot, пишу Telegram-ботов на aiogram, разворачиваю проекты в Docker.
+Frontend-разработчик с уклоном в TypeScript и React. Помимо фронтенда работаю с бэкендом на Django, пишу Telegram-ботов на aiogram, разворачиваю проекты в Docker.
 
 ---
 
@@ -30,8 +30,6 @@ Frontend-разработчик с уклоном в TypeScript и React. Пом
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 **Bots**
@@ -75,7 +73,7 @@ Frontend-разработчик с уклоном в TypeScript и React. Пом
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=101lLEOl101&repo=StudyBot&theme=tokyonight&hide_border=true" />
         </a>
       </p>
-      <p align="center"><sub>React · TypeScript · Spring Boot · MySQL · aiogram</sub></p>
+      <p align="center"><sub>React · TypeScript · Mantine · MySQL · aiogram</sub></p>
     </td>
   </tr>
 </table>
@@ -99,8 +97,8 @@ Frontend-разработчик с уклоном в TypeScript и React. Пом
 
 ---
 
-## Contribution Graph
+## Activity Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/101lLEOl101/101lLEOl101/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=101lLEOl101&theme=tokyo-night&hide_border=true&area=true&radius=16" />
 </p>
