@@ -100,7 +100,7 @@ Frontend-разработчик с уклоном в TypeScript и React. Пом
 
 <p align="center">
   <img height="180" src="https://gh-readme-stats.vercel.app/api?username=101lLEOl101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=101lLEOl101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.3&count_weight=0.7" />
+  <img height="180" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=101lLEOl101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&size_weight=0.1&hide=Kotlin,Cmake,C&count_weight=0.9" />
 </p>
 
 <p align="center">
