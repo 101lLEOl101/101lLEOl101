@@ -92,6 +92,32 @@ Frontend-разработчик с уклоном в TypeScript и React. Пом
       <p align="center"><sub>React · TypeScript · Mantine · MySQL · aiogram</sub></p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <table align="center" width="50%">
+        <tr>
+          <td valign="top">
+            <h3 align="center">
+              <a href="https://github.com/101lLEOl101/Messanger">MessAnger</a>
+            </h3>
+            <p align="center">мессенджер с WebRTC-звонками и E2E-шифрованием · в разработке</p>
+            <p align="center">
+              <a href="https://github.com/101lLEOl101/Messanger">
+                <img src="https://img.shields.io/github/stars/101lLEOl101/Messanger?style=for-the-badge&logo=github&color=7AA2F7&labelColor=1a1b27" />
+              </a>
+              <a href="https://github.com/101lLEOl101/Messanger/commits/main">
+                <img src="https://img.shields.io/github/last-commit/101lLEOl101/Messanger?style=for-the-badge&color=BB9AF7&labelColor=1a1b27" />
+              </a>
+              <a href="https://github.com/101lLEOl101/Messanger">
+                <img src="https://img.shields.io/github/languages/top/101lLEOl101/Messanger?style=for-the-badge&color=9ECE6A&labelColor=1a1b27" />
+              </a>
+            </p>
+            <p align="center"><sub>React · TypeScript · Redux Toolkit · Express · Prisma · Docker</sub></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 ---
